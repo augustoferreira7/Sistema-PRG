@@ -1,0 +1,11 @@
+.mensagem-sucesso{
+    color: green;
+}
+.mensagem-erro{
+    color: red;
+}
+
+.conteudo{
+    width: 95%;
+    margin: 0 auto;
+}
